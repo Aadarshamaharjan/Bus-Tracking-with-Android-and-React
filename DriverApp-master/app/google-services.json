@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031062502613",
+    "firebase_url": "https://driverapp-dd386.firebaseio.com",
+    "project_id": "driverapp-dd386",
+    "storage_bucket": "driverapp-dd386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031062502613:android:a841d6ce202dea95f3b65c",
+        "android_client_info": {
+          "package_name": "com.spartons.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031062502613-u4dtb5n2ioc8hr61eermmmnasvkuv5i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6nJbm7wqLtXZTXLq6ox0r7goSyMbzhgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031062502613-u4dtb5n2ioc8hr61eermmmnasvkuv5i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
